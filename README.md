@@ -45,7 +45,7 @@
         <img src="assets/telegram.png" width="100" style="margin: 0 30px;">
     </a>
     <a href="mailto:prohor2568@gmail.com">
-        <img src="assets/email.png" width="90" style="margin: 0 30px;">
+        <img src="assets/email.png" width="80" style="margin: 0 30px;">
     </a>
     <a href="https://discordapp.com/users/628281449287516172">
         <img src="assets/discord.png" width="100" style="margin: 0 30px;">
