@@ -61,5 +61,5 @@
 ---
 <div align="center">
     <h2>Languages usage</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtazyProhor">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtazyProhor&layout=pie&langs_count=8&theme=cobalt">
 </div>
