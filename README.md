@@ -57,3 +57,9 @@
     <h2>My LeetCode stats</h2>
     <img src="https://leetcard.jacoblin.cool/extazy_prohor?theme=dark&font=JetBrains%20Mono">
 </div>
+
+---
+<div align="center">
+    <h2>Languages usage</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtazyProhor">
+</div>
