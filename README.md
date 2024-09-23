@@ -14,13 +14,6 @@
 
 ---
 <div align="center">
-    <h2>Frameworks and Libs</h2>
-    <img src="https://skillicons.dev/icons?i=spring" style="margin: 0 40px;"/>
-    <img src="https://skillicons.dev/icons?i=hibernate" style="margin: 0 40px;"/>
-</div>
-
----
-<div align="center">
     <h2>Databases</h2>
     <img src="https://skillicons.dev/icons?i=mongodb" style="margin: 0 30px;"/>
     <img src="https://skillicons.dev/icons?i=postgres&theme=light" style="margin: 0 30px;"/>
