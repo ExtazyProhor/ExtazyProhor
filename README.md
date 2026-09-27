@@ -1,58 +1,34 @@
 <div align="center">
-    <h1>Welcome to my GitHub Profile!</h1>
-    <img src="https://stickerbase.ru/wp-content/uploads/2020/10/51567.png"
-        alt="Hello" width="300">
+
+# Hi, I'm Prohor 👋
+
+<a href="https://t.me/extazy_prohor"><img src="assets/telegram.png" alt="Telegram" width="36" height="36"></a>
+&nbsp;&nbsp;
+<a href="mailto:prohor2568@gmail.com"><img src="assets/email.png" alt="Email" width="36" height="36"></a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/628281449287516172"><img src="assets/discord.png" alt="Discord" width="36" height="36"></a>
+
 </div>
 
----
-<div align="center">
-    <h2>My core</h2>
-    <img src="https://skillicons.dev/icons?i=java&theme=light" style="margin: 0 30px;"/>
-    <img src="https://skillicons.dev/icons?i=windows" style="margin: 0 30px;"/>
-    <img src="https://skillicons.dev/icons?i=obsidian" style="margin: 0 30px;"/>
-</div>
+## Current toolkit
 
----
-<div align="center">
-    <h2>Databases</h2>
-    <img src="https://skillicons.dev/icons?i=mongodb" style="margin: 0 30px;"/>
-    <img src="https://skillicons.dev/icons?i=postgres&theme=light" style="margin: 0 30px;"/>
-    <img src="https://skillicons.dev/icons?i=sqlite" style="margin: 0 30px;"/>
-    
-</div>
+| Area        | Tools                                                                                              |
+|-------------|----------------------------------------------------------------------------------------------------|
+| Languages   | ![Kotlin, Java](https://skillicons.dev/icons?i=kotlin,java&theme=dark)                             |
+| Databases   | ![MongoDB, PostgreSQL, SQLite](https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark)  |
+| Workspace   | ![Apple, Obsidian, IntelliJ IDEA](https://skillicons.dev/icons?i=apple,obsidian,idea&theme=dark)   |
+| Other tools | ![Spring, Linux, Nginx, Maven](https://skillicons.dev/icons?i=spring,linux,nginx,maven&theme=dark) |
 
----
-<div align="center">
-    <h2>Tools</h2>
-    <img src="https://skillicons.dev/icons?i=idea" style="margin: 0 20px;"/>
-    <img src="https://skillicons.dev/icons?i=nginx" style="margin: 0 20px;"/>
-    <img src="https://skillicons.dev/icons?i=androidstudio" style="margin: 0 20px;"/>
-    <img src="https://skillicons.dev/icons?i=postman" style="margin: 0 20px;"/>
-    
-</div>
+## Currently learning
 
----
-<div align="center">
-    <h2>Contact me (clickable)</h2>
-    <a href="https://t.me/extazy_prohor">
-        <img src="assets/telegram.png" width="100" style="margin: 0 30px;">
-    </a>
-    <a href="mailto:prohor2568@gmail.com">
-        <img src="assets/email.png" width="80" style="margin: 0 30px;">
-    </a>
-    <a href="https://discordapp.com/users/628281449287516172">
-        <img src="assets/discord.png" width="100" style="margin: 0 30px;">
-    </a>
-</div>
+![Redis, Elasticsearch, Kafka, Cloudflare, Docker, Ansible, Jenkins, Prometheus, Grafana](https://skillicons.dev/icons?i=redis,elasticsearch,kafka,cloudflare,docker,ansible,jenkins,prometheus,grafana&theme=dark&perline=3)
 
----
-<div align="center">
-    <h2>My LeetCode stats</h2>
-    <img src="https://leetcard.jacoblin.cool/extazy_prohor?theme=dark&font=JetBrains%20Mono">
-</div>
+## Coding practice
 
----
-<div align="center">
-    <h2>Languages usage</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtazyProhor&layout=pie&langs_count=8&theme=cobalt">
-</div>
+<a href="https://leetcode.com/u/extazy_prohor/">
+  <img src="https://leetcard.jacoblin.cool/extazy_prohor?theme=dark&font=JetBrains%20Mono" alt="LeetCode stats for extazy_prohor">
+</a>
+
+## Explore my work
+
+Browse my [repositories on GitHub](https://github.com/ExtazyProhor?tab=repositories).
